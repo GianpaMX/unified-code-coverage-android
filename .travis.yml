@@ -6,6 +6,10 @@ android:
   - platform-tools
   - build-tools-23.0.3
   - android-23
+  - extra-android-support
+  - extra-google-google_play_services
+  - extra-google-m2repository
+  - extra-android-m2repository
   - sys-img-armeabi-v7a-android-21
 env:
   matrix:
